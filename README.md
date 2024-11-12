@@ -1,6 +1,8 @@
 # Transaction, A resource for rendering and sending transactional emails with Svelte
 
-Transaction is a resource for learning how to render (https://svelte.dev)[Svelte] components as email friendly markup on the server along with best practices and integrations with the top email sending clients.
+Transaction is a resource for learning how to render [
+https://svelte.dev
+](Svelte) components as email friendly markup on the server along with best practices and integrations with the top email sending clients.
 
 The goal of this project is not to provide an opaque library for rendering emails but to provide a resource for learning how to render emails with Svelte and send them with the top email sending clients.
 
